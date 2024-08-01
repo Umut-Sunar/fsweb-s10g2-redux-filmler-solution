@@ -21,7 +21,7 @@ const App = (props) => {
   return (
     <div>
       <nav className="bg-zinc-800 px-6 py-3">
-        <h1 className="text-xl text-white">Redux Film Projesi</h1>
+        <h1 className="text-xl text-white">EMRAH HOCANIN SINIFI</h1>
       </nav>
 
       <div className="max-w-4xl mx-auto px-3 pb-4">

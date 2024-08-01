@@ -3,7 +3,7 @@ import movies from "../../data.js";
 
 const initialState = {
   movies: movies,
-  appTitle: "IMDB Movie Database",
+  appTitle: "KARA BORSA FİLMLER",
 };
 
 const reducer = (state = initialState, action) => {

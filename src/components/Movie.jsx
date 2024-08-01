@@ -29,6 +29,7 @@ const Movie = (props) => {
     <div className="bg-white rounded-md shadow flex-1">
       <div className="p-5 pb-3 border-b border-zinc-200">
         <h4 className="text-xl font-bold">{movie.title} Detayları</h4>
+        <h1>BAŞROL: EMRAH HOCAM  :)  </h1>
       </div>
       <div className="px-5 py-3">
         <div className="py-1 flex">
